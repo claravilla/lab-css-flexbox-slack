@@ -5,3 +5,11 @@ main-titles dark-grey: #2C303F;
 paragraph grey: #5b5e6d;
 nav grey: #5b5e6d;
 */
+
+nav {
+    position: fixed;
+    z-index:1;
+}
+nav img {
+    width:200px;
+}
